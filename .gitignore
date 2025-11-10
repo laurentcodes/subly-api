@@ -1,6 +1,13 @@
 # deps
 node_modules/
 
+# environment variables
+.env
+.env.*
+
+# os files
+.DS_Store
+
 # claude
 CLAUDE.md
 
